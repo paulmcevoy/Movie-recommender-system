@@ -1,5 +1,6 @@
 # rec_sys
-My recommender system
+My recommender system uses the movielens rating data from http://grouplens.org/datasets/movielens/
+It then performs the following steps:
 
 1.	Populates movie and user dictionaries and calculate rating predictions based on average
 2.	Creates two new dictionaries:
